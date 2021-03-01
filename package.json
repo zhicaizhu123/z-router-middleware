@@ -1,6 +1,6 @@
 {
   "name": "z-router-middleware-guard",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a middleware guard plugin of vue-router 4.0 ",
   "main": "lib/index.js",
   "module": "lib/index.umd.js",
