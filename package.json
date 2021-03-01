@@ -1,5 +1,5 @@
 {
-  "name": "z-router-middleware",
+  "name": "z-router-middleware-guard",
   "version": "1.0.0",
   "description": "a template of typescript plugins",
   "main": "lib/index.js",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zhicaizhu123/z-router-middleware.git"
+    "url": "https://github.com/zhicaizhu123/z-router-middleware-guard.git"
   },
   "keywords": [
     "typescript-plugin",
