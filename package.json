@@ -1,7 +1,7 @@
 {
   "name": "z-router-middleware-guard",
   "version": "1.0.0",
-  "description": "a template of typescript plugins",
+  "description": "a middleware guard plugin of vue-router 4.0 ",
   "main": "lib/index.js",
   "module": "lib/index.umd.js",
   "typings": "lib/types/index.d.ts",
@@ -18,12 +18,9 @@
     "url": "https://github.com/zhicaizhu123/z-router-middleware-guard.git"
   },
   "keywords": [
-    "typescript-plugin",
-    "ts-plugin",
-    "typescript-template",
-    "ts-template",
-    "rollup-typescript",
-    "rollup-ts"
+    "vue-router4.0",
+    "vue",
+    "router-middleware"
   ],
   "author": "",
   "license": "ISC",
