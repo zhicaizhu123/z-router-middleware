@@ -1,0 +1,6 @@
+lib/
+src/__test__/
+.eslintrc.js
+babel.config.js
+jest.config.js
+rollup.config.js
